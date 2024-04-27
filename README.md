@@ -1,3 +1,6 @@
 ![Example architecture](./cton-arch.png "Arch")
+![Example architecture](./block.png "Arch")
 ![Example architecture](./tx-struct.png "Arch")
+![Example architecture](./msg.png "Arch")
 ![Example architecture](./cell.png "Arch")
+![Example architecture](./auth.png "Arch")
